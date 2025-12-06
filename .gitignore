@@ -1,0 +1,32 @@
+﻿# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights and large files (do not commit)
+models/
+*.pt
+*.onnx
+*.pth
+
+# video / dataset
+data/
+*.mp4
+*.avi
+
+# IDE & workspace
+.vscode/
+*.code-workspace
+
+# logs
+logs/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
