@@ -27,8 +27,8 @@ This repo doesn't include model weights (large). Run:
 
 python scripts/get_model.py
 
-This will create `models/yolov8n.pt`. If automatic download fails, download manually from the Drive link:
-https://drive.google.com/file/d/12asbKz.../view
+This will create `models/yolov8n.pt`. If automatic download fails, download manually from the Drive link: https://drive.google.com/drive/folders/15KpNH0DAUecHDORTcbkdwvGRoaC581pK?usp=sharing
+
 
 
 
