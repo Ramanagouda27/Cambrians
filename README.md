@@ -211,7 +211,7 @@ python src/side_mirror_video_alert.py --video "data/3_lane_kelly_dashcam.mp4"
 This project requires video input. Download sample test videos from the link below:
 
 🔗 **Sample Dashcam Videos (Google Drive)**  
-https://drive.google.com/drive/folders/15KpNH0DAUecHDORTcbkdwvGRoaC581pK?usp=sharing
+https://drive.google.com/drive/folders/1_d1HQhtUJAFn5xAmTJEfSHnLvGXfyfJO?usp=sharing
 
 After downloading, place the videos inside:
 
