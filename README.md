@@ -23,6 +23,14 @@ After downloading, create a folder:
 models/
 └── yolov8n.pt
 
+This repo doesn't include model weights (large). Run:
+
+python scripts/get_model.py
+
+This will create `models/yolov8n.pt`. If automatic download fails, download manually from the Drive link:
+https://drive.google.com/file/d/12asbKz.../view
+
+
 
 ## How to Run
 1. python -m venv venv
